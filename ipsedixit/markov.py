@@ -1,5 +1,6 @@
-
-""" Markov chain random text generator. """
+# --------------------------------------------------------------------------
+# Markov chain random text generator.
+# --------------------------------------------------------------------------
 
 import random
 import itertools

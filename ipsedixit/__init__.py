@@ -1,16 +1,15 @@
-"""
-Markov chain-based pseudo-Latin text generator.
-
-To generate a list of n paragraphs:
-
-    >>> import ipsedixit
-    >>> generator = ipsedixit.Generator()
-    >>> paragraphs = generator.paragraphs(n)
-
-Author: Darren Mulholland <dmulholland@outlook.ie>
-License: Public Domain
-
-"""
+# --------------------------------------------------------------------------
+# Markov-chain pseudo-Latin text generator.
+#
+# To generate a list of n paragraphs:
+#
+#     >>> import ipsedixit
+#     >>> generator = ipsedixit.Generator()
+#     >>> paragraphs = generator.paragraphs(n)
+#
+# Author: Darren Mulholland <darren@mulholland.xyz>
+# License: Public Domain
+# --------------------------------------------------------------------------
 
 import os
 import argparse
