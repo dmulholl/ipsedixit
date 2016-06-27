@@ -14,6 +14,7 @@ abbreviations = (
     'n.b.', 'p.s.', 'q.v.', 's.c.',
 )
 
+
 # Problematic characters and comments to strip from input text.
 strip_regex = re.compile(r'\(|\)|\[|\]|"|_|-|\+|^#.*\n', re.MULTILINE)
 
