@@ -12,7 +12,7 @@ in templates, etc.
 
 Installs both as a library module and as a command line script.
 
-See the project's `Github homepage <https://github.com/dmulholland/ipsedixit>`_
+See the project's `Github homepage <https://github.com/dmulholl/ipsedixit>`_
 for further details.
 
 Note that this package requires Python 3.
@@ -43,7 +43,7 @@ setup(
         ],
     },
     author = 'Darren Mulholland',
-    url = 'https://github.com/dmulholland/ipsedixit',
+    url = 'https://github.com/dmulholl/ipsedixit',
     license = 'Public Domain',
     description = 'Lorem ipsum on steroids.',
     long_description = __doc__,
